@@ -37,5 +37,10 @@ namespace StackUsingSingleLinkList
             top = fresh;
             Console.WriteLine("\n" + element + "pushed");
         }
+
+        public void pop()
+        {
+            
+        }
     }
 }
