@@ -12,4 +12,9 @@ namespace StackUsingSingleLinkList
             next = n;
         }
     }
+
+    class stack
+    {
+        
+    }
 }
