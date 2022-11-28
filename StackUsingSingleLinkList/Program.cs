@@ -15,6 +15,11 @@ namespace StackUsingSingleLinkList
 
     class stack
     {
+        node top;
+        public Stack()
+        {
+            top = null;
+        }
         
     }
 }
